@@ -12,3 +12,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/eslam980"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="eslam980" /></a></p><br><br>
+
+
+<div id='buzzsprout-small-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/2176588.js?container_id=buzzsprout-small-player&player=small'></script>
