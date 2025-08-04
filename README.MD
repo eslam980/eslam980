@@ -1,18 +1,17 @@
 [![github-banner.png](https://i.postimg.cc/gj1ZfRg6/github-banner.png)](https://postimg.cc/N27FXyqg)
 
 # About me
-I'm eslam980 a Game developer that also create softwares and websites using tools that I have been created to improve my workflow.
+Game Developer with over 10+ years of learning and practical experience in Game Development Industry.
 
 <details>
-  <summary>📂 More Information</summary>
-  I'm a Game Developer and Software Engineer, I like creating different types of games but usually I really like creating Real-Time Strategy, TPS, Top-Down, and Roguelike games. 
-  Beyond game engines, I am proficient in coding across multiple languages, I also enjoy creating software apps and tools that enhance productivity and my workflow.
-  
-  In my role as a Software Developer, I usually focus on the back-end side of software development but that doesn't mean that I don't make beautiful and elegant design using multiple frameworks "usually web-based frameworks like react or flutter-likes".
+  <summary>📂 More About Me</summary>
+  I'm Eslam Samir, an experienced Game Developer with a decade of learning and consistently improving as a game developer by helping clients and companies achieve results.
+  Finishing games is a priority, and that's what I'm good at developing games, creating complex systems, building tools, leading teams, improving and optimizing workflow and pipelines.
+  As a game developer, I mostly work in Unity while having experience in Unreal, Godot, and custom/private engines. I'm also proficient in multiple programming languages and paradigms like the C family, Rust, Python, Dart, JavaScript, and much more.
 
 
   **Contacts**
-  Feel free to reach out if you need anything
+  Feel free to reach out.
 
 
 </details>
